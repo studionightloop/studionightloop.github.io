@@ -1,0 +1,39 @@
+# oko — BDIX Browser (Full Documentation)
+
+## What is oko?
+oko is a free BDIX browser for Android: browse and stream movies, TV shows and live TV from BDIX FTP servers in Bangladesh. One app for mobile & Android TV. No account needed; supported by ads via Google AdMob.
+
+## How it Works
+BDIX networks in Bangladesh expose local FTP media servers with movies, series and live TV. When on a supported BDIX ISP, oko browses those servers and streams in-app — faster and cleaner than a generic web browser.
+
+## Platform Support
+- **Mobile**: Android 5.0 (Lollipop) and above
+- **Android TV**: same app, TV-friendly navigation
+- Package: com.okoplayer.app, version 1.0.0
+
+## Features
+- BDIX browsing: movies, TV shows, live TV
+- Multi-source server support
+- Lightweight, fast, minimal interface
+- No account required
+- Watch history, settings and downloads stay on-device
+
+## Requirements
+- Android 5.0+ phone or Android TV
+- Connection to a supported BDIX ISP in Bangladesh
+
+## Privacy
+No account. Google AdMob may collect device information and ad identifiers to serve ads. Local data (watch history, settings, downloads) never leaves the device. Details: https://mahidsec.github.io/oko/privacy-policy/
+
+## Links
+- Website: https://mahidsec.github.io/oko/
+- Google Play: https://play.google.com/store/apps/details?id=com.okoplayer.app
+- Privacy Policy: https://mahidsec.github.io/oko/privacy-policy/
+- Terms of Use: https://mahidsec.github.io/oko/terms-of-use/
+
+## Developer
+- Email: officialoko@proton.me
+
+## Related Terms
+BDIX browser, BDIX streaming, BDIX FTP client, BDIX movie server, BDIX live TV, Bangladeshi streaming app, local FTP media server, Android TV BDIX, free BDIX app
+
